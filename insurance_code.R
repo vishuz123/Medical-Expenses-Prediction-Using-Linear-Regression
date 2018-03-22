@@ -41,7 +41,6 @@ ins$age2<-ins$age^2
 # Converting a numerical value into binary value
 
 ins$bmi30<-ifelse(ins$bmi>=30,1,0)
-ins<-ins[,-9]
 
 # Adding interaction effect
 

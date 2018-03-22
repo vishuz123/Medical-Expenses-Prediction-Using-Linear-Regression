@@ -6,7 +6,7 @@ The steps for prediction are:
 
 1) Loading/Reading the data from the local drive.
 2) Cleaning the data to clear out the anomalies.
-3) Exploring the categorical and numerical data using proper data visualization steps.
+3) Exploring the categorical and numerical features using proper data visualization steps.
 4) Creation of correlation matrix.
 5) Creation of scatterplot matrices to visualize the correlated variables.
 6) Training the model using Linear Regression Algorithm.
